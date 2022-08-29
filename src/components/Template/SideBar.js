@@ -1,38 +1,40 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import EmailLink from '../Contact/EmailLink';
 import ContactIcons from '../Contact/ContactIcons';
 
-const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
+// const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      <Link to="/" className="logo">
+      {/* <Link to="/" className="logo">
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
-      </Link>
+      </Link> */}
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Ismael Abujadur</h2>
+        {/* <p><a href="mailto:ismaelabujadur@gmail.com">ismaelabujadur@gmail.com</a></p> */}
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I am Ismael. I like to solve problems.
+        I am a computer science and engineering undergraduate,
+        who would love to help society in meaningful ways,
+        and the environment that surrounds us.
       </p>
+
+      <div className="email-at">
+        <p>Feel free to get in touch. You can email me at: </p>
+        <EmailLink />
+      </div>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Ismael Abujadur <Link to="/">ismaelabujadur.github.io</Link>.</p>
     </section>
   </section>
 );

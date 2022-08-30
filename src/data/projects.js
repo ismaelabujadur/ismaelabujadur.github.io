@@ -1,16 +1,26 @@
 // TODO Add a couple lines about each project
 const data = [
-  // {
-  //   title: 'RSM Global',
-  //   subtitle: '2015 BVP Hackathon',
-  //   image: '/images/projects/nearestdollar.jpg',
-  //   date: '2015-11-20',
-  //   desc:
-  //     'Built for a social impact hackathon. '
-  //     + 'NearestDollar connected to your bank accounts, credit cards, '
-  //     + 'or debit cards and rounded up your purchases to donate the balance to '
-  //     + 'the charity of your choice.',
-  // },
+  {
+    title: 'Rivver',
+    subtitle: 'Young Vic theater',
+    image: '/images/projects/rivver.png',
+    date: '2021-01-20',
+    desc:
+      'Built for the company Young Vic. '
+      + 'Developed an innovative system for multi-camera streaming, '
+      + 'allowing users to watch the theater play from different angles, '
+      + 'switching between cameras in a synced environment.',
+  },
+  {
+    title: 'RSM Global',
+    subtitle: 'Young Vic theater',
+    image: '/images/projects/rsmglobal.png',
+    date: '2022-01-20',
+    desc:
+      'Built for the company RSM. '
+      + 'Using the same base code, 100 sites were deployed, one per firm '
+      + 'allowing each firm to have different content, language and configuration.',
+  },
   // {
   //   title: 'Harvest',
   //   subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',

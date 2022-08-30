@@ -1,5 +1,5 @@
 const courses = {
-  title: 'Selected Courses/Certificates',
+  title: 'In progress Courses/Certificates',
   values: [
     {
       title: 'SOLID principles',

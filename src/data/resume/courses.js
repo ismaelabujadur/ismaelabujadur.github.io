@@ -28,6 +28,18 @@ const courses = {
         'https://www.coursera.org/learn/learning-how-to-learn',
       university: 'freecodecamp',
     },
+    {
+      title: 'Front End Development Libraries',
+      link:
+        'https://www.freecodecamp.org/learn/front-end-development-libraries/',
+      university: 'freecodecamp',
+    },
+    {
+      title: 'Responsive Web Design',
+      link:
+        'https://www.freecodecamp.org/learn/responsive-web-design/',
+      university: 'freecodecamp',
+    },
   ],
 };
 

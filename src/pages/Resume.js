@@ -10,7 +10,6 @@ import Courses from '../components/Resume/Courses';
 // import References from '../components/Resume/References';
 
 import courses from '../data/resume/courses';
-import progresscourses from '../data/resume/progresscourses';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
@@ -45,7 +44,6 @@ const Resume = () => (
       <Experience data={positions} />
       <Skills skills={skills} categories={categories} />
       <Courses title={courses.title} data={courses.values} />
-      <Courses title={progresscourses.title} data={progresscourses.values} />
       {/* <References /> */}
 
     </article>

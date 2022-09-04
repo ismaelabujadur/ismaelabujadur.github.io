@@ -1,6 +1,6 @@
 # Intro
 
-I am a full-stack developer who would like to work on meaningful projects, helping our society in many ways. I am interested in projects that are related to imaging, social impact, renewable energies, and environment. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a full-stack developer who would like to work on meaningful projects, and help our society in many ways. I am interested in projects that are related to imaging, social impact, renewable energies, and social environment. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
@@ -25,9 +25,9 @@ At 3B Digital, I have learned how to work in a team, use different project manag
 
 - At 19, I was still a bit confused and did an advanced course on network operating system administration, where I learned many new things and met new people who I am still close friends with. I was the second one with the best grades and I loved helping my classmates. I would spend hours with them explaining the things that we learned in class. My teachers and a couple of classmates motivated me to try to do a bachelor degree (In Spain the Computer Science degree is considered one of the hardest ones)
 
-- After finishing the advanced course I spent a few weeks relaxing and doing parkour. Finally, I set my mind to try to do that Bachelor degree. With a few old classmates we joined an academy as our math knowledge was very little, and we really needed a medium-high level of statistics, physics and algebra to have some chances of passing the degree subjects. We spent the whole summer trying to learn and figure it out.
+- After finishing the network operating system administration course, I spent a few weeks relaxing and doing parkour. Finally, I set my mind to try to do that Bachelor degree. With a few old classmates we joined an academy as our math knowledge was very little, and we really needed a medium-high level of statistics, physics and algebra to have some chances of passing the degree subjects. We spent the whole summer trying to learn and figure it out.
 
-- When I was 21 I finally started the bachelor degree, it was hectic. I would spend around 10 hours + 6 hours of lessons each day trying to be able to pass the subjects. Ended up grading with honors in many subjects. I had a great group of classmates who helped me and I helped them. We started making great notes in class and then making them pretty and selling (cheap) them to other students. All the money we earned we spent it inviting our other classmates and ourselves for Christmas dinner.
+- When I was 21, I finally started the bachelor degree, it was hectic. I would spend around 10 hours studying + 6 hours of lessons each day trying to be able to pass the subjects. Ended up grading with honors in many subjects. I had a great group of classmates who helped me and I helped them. We started making great notes in class and then making them pretty and selling (cheap) them to other students. All the money we earned we spent it inviting our other classmates and ourselves for Christmas dinner.
 
 - My classmates (from the advanced course I did) and me, spent 3 years creating notes for other people, understanding complex concepts and solving many problems. Many of us thought of giving up as we had to dedicate more hours than the average student. We did not have a good math base, and we had to go to academies to learn statistics, algebra and physics.
 
@@ -70,6 +70,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I dream of
 
 - learning more about self-development.
-- finding inspiration.
-- enabling a brighter future.
+- to be in control of my time.
+- to read as much as I can.
 - doing better.
+- to build my own house.
+- to travel around the world and visit most countries.
+- do something valuable for others.

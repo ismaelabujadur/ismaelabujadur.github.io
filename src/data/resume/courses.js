@@ -34,12 +34,6 @@ const courses = {
         'https://www.freecodecamp.org/learn/front-end-development-libraries/',
       university: 'freecodecamp',
     },
-    {
-      title: 'Responsive Web Design',
-      link:
-        'https://www.freecodecamp.org/learn/responsive-web-design/',
-      university: 'freecodecamp',
-    },
   ],
 };
 

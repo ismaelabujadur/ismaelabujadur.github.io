@@ -9,7 +9,9 @@ const data = [
       'Built for the company Young Vic. '
       + 'Developed an innovative system for multi-camera streaming, '
       + 'allowing users to watch the theater play from different angles, '
-      + 'switching between cameras in a synced environment.',
+      + 'switching between cameras in a synced environment. Built using ',
+    techs: 'Gatsby, React.JS, SASS and HTML5',
+    link: 'https://bestseat.youngvic.org/demo',
   },
   {
     title: 'RSM Global',
@@ -20,6 +22,7 @@ const data = [
       'Built for the company RSM. '
       + 'Using the same base code, 100 sites were deployed, one per firm '
       + 'allowing each firm to have different content, language and configuration.',
+    techs: 'Drupal 9, PHP, Symfony, SASS, Javascript ES6 and HTML5',
   },
   // {
   //   title: 'Harvest',

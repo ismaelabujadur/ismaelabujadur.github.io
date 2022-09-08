@@ -13,7 +13,17 @@ const Cell = ({ data }) => (
         <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
       </a>
       <div className="description">
-        <p>{data.desc}</p>
+        <p>
+          {data.desc}
+          {
+            data.techs
+            && <p>Built using {data.techs}</p>
+          }
+          {
+            data.link
+            && <p className="demo"><a href={data.link} target="_blank" rel="noreferrer">Watch the demo</a></p>
+          }
+        </p>
       </div>
     </article>
   </div>
@@ -23,6 +33,7 @@ Cell.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string.isRequired,
     link: PropTypes.string,
+    techs: PropTypes.string,
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,

@@ -24,6 +24,16 @@ const data = [
       + 'allowing each firm to have different content, language and configuration.',
     techs: 'Drupal 9, PHP, Symfony, SASS, Javascript ES6 and HTML5',
   },
+  {
+    title: 'Codewars',
+    subtitle: 'Achieve Mastery Through Challenge',
+    image: '/images/projects/codewars.png',
+    date: '2022-09',
+    desc:
+      'Repository where I upload the Katas that I do every day. I try to do 1-2 every day to improve my knowledge of Javascript.',
+    techs: 'Javascript ES6',
+    link: 'https://www.codewars.com/users/ismaelabujadur',
+  },
   // {
   //   title: 'Harvest',
   //   subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',

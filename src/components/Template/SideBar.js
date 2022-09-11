@@ -4,14 +4,14 @@ import { Link } from 'react-router-dom';
 import EmailLink from '../Contact/EmailLink';
 import ContactIcons from '../Contact/ContactIcons';
 
-// const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
+const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
-      {/* <Link to="/" className="logo">
+      <Link to="/" className="logo">
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
-      </Link> */}
+      </Link>
       <header>
         <h2>Ismael Abujadur</h2>
         {/* <p><a href="mailto:ismaelabujadur@gmail.com">ismaelabujadur@gmail.com</a></p> */}
